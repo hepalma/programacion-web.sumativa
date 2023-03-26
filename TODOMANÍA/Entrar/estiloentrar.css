@@ -5,7 +5,7 @@ a:link, a:visited {
 
 body {
     background-color: rgb(223, 217, 217);
-    background-image: url(imagenes_index/Witching\ Hour.jpg );
+    background-image: url(imagenes_entrar/Witching\ Hour.jpg );
     background-size:cover;
 }
 
@@ -23,8 +23,11 @@ body {
     color:whitesmoke;
 }
 
-.card{
-    width:400px;
-    position: relative;
-    top:-50px;
+.tituloen {
+    Color:whitesmoke;
+    font-family:Bebas Neue;
+    font-size:70px;
+    text-align: center;
+    position:relative;
+
 }
