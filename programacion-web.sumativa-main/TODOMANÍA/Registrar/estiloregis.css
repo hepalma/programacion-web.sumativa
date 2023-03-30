@@ -23,11 +23,7 @@ body {
     color:whitesmoke;
 }
 
-.card{
-    width:400px;
-    position: relative;
-    top:-50px;
-}
+ 
 
 .tituloreg {
     Color:whitesmoke;
@@ -36,4 +32,14 @@ body {
     text-align: center;
     position:relative;
 
+}
+
+.container{
+    position:relative;
+    background-color: whitesmoke;
+    background-size:cover;
+    height: 480px;
+    background-position: center; 
+    background-size: cover;
+    border-radius: 20px 20px;
 }

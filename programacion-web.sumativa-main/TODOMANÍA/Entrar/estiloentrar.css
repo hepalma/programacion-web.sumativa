@@ -31,3 +31,13 @@ body {
     position:relative;
 
 }
+
+.container{
+    position:relative;
+    background-color: whitesmoke;
+    background-size:cover;
+    height: 440px;
+    background-position: center; 
+    background-size: cover;
+    border-radius: 20px 20px;
+}
